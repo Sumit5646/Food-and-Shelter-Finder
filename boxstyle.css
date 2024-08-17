@@ -1,0 +1,34 @@
+div{
+
+    background-color: rgb(35, 208, 156);
+    color:rgb(18, 18, 17);
+    border-radius:10px;
+    border-style: double;
+    width: 25%;
+    display:inline-block;
+    margin: 1%;
+
+  
+}
+ol{
+    margin-left:60px;
+}
+
+ol li
+{
+    list-style:none;
+    line-height: 100px;
+    display:inline-block;
+
+
+}
+ol li a{
+
+    font-size:20 ;
+    color: black;
+    padding: 0 20px;
+}
+body{
+    background-color: black;
+    color: aliceblue;
+}

@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.repo{
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.3rem;
+    background-color: #f8dcd1;
+}
+
+.word{
+    margin-left: 20%;
+}

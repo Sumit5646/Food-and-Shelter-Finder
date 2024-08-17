@@ -1,0 +1,23 @@
+marquee{
+    color: black;
+
+}
+
+  
+  img {
+    width: 100%; /* takes the 100 % width of its container (.box div)*/
+    height: 100%; /* takes the 100 % height of its container (.box div)*/
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+  }
+h1{
+  color: white;
+}
+h4{
+  color: white;
+}
+.word{
+   margin-left: 20%;
+}
